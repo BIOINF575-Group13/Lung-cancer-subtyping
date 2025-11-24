@@ -1,3 +1,6 @@
+from sklearn.preprocessing import StandardScaler
+
+
 #Example of a data frame
 '''Sample_ID	Subtype	Subtype_Int
 0	GSM258551	adenocarcinoma	0
