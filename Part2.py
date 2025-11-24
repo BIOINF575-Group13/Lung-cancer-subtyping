@@ -1,4 +1,4 @@
-#Example of data frame
+#Example of a data frame
 '''Sample_ID	Subtype	Subtype_Int
 0	GSM258551	adenocarcinoma	0
 1	GSM258552	adenocarcinoma	0
